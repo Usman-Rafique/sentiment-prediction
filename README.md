@@ -9,7 +9,7 @@ First, we need to convert the words to vectors using an embedding layer. Since e
 ## Key Features
 This network is not designed for the best accuracy. Instead, the goal is to make an efficient network which can do well while using minimun bumber of parameters. One way to quantify the score that includes test accuracy and the number of paramaters of the network is:
 
-![Score equation](https://github.com/Usman-Rafique/sentiment-prediction/blob/master/Score.pdf)
+![Score equation](https://github.com/Usman-Rafique/sentiment-prediction/blob/master/score.png)
 
 [//]: # ( Score = \frac{Accuracy}{(Number of Parameters)^0.1}  )
 
