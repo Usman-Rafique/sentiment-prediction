@@ -2,7 +2,9 @@
 
 The goal of this project is to understand the sentiment from a given text.
 
-This project uses the IMDB dataset for sentiment analysis. The dataset contains movie reveiws and every review has been labelled as either positive or negative. The problem is to correctly predict if a review is positie or negative. For more details about the dataset, please see: http://ai.stanford.edu/~amaas/data/sentiment/.
+This project uses the **Large Movie Review Dataset** (also known as IMDB dataset) for sentiment analysis. The dataset contains movie reveiws - every review has been labelled as either positive or negative. The problem is to correctly predict if a review is positie or negative. For more details about the dataset, please see: http://ai.stanford.edu/~amaas/data/sentiment/.
+
+To make the problem (slightly) harder, we only read 250 words from every review. The average review size is around 300 words and some commonly reffered examples use first 500 words from every review.
 
 ## Network Architecture
 
