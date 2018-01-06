@@ -17,9 +17,9 @@ This network is not designed for the best accuracy. Instead, the goal is to make
 
 This network gives a test accuracy of over 88% (88.376% in my last test). Since there are 322,046 total parameters in the network, we get **score = 0.2486** which is not too bad.
 
-**Network Summary** *same paragraph*
-Total number of parameters: 322,046 *same paragraph*
-Test Accuracy: 88%m *same paragraph*
+**Network Summary** --
+Total number of parameters: 322,046 --
+Test Accuracy: 88%m --
 Training Accuracy: 91%
 Convolutional Layers: 3
 
