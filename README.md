@@ -17,11 +17,11 @@ This network is not designed for the best accuracy. Instead, the goal is to make
 
 This network gives a test accuracy of over 88% (88.376% in my last test). Since there are 322,046 total parameters in the network, we get **score = 0.2486** which is not too bad.
 
-**Network Summary** --
-Total number of parameters: 322,046 --
-Test Accuracy: 88%m --
-Training Accuracy: 91%
-Convolutional Layers: 3
+**Network Summary**  
+Total number of parameters: 322,046  
+Test Accuracy: 88%  
+Training Accuracy: 91%  
+Convolutional Layers: 3  
 
 ## Secret Sauce
 Yes, it is not a secret anymore! The key decision that makes the number of parameters small, without compromising the accuracy, is to reduce the output size of embedding layer. Typical value of 132-dimensional output vector generates millions of parameters in just the embedding layer! While I have reduced the number of feature maps in the convolutional layers and the fully connected layer, the major improvement comes from reducing the dimension of vectors by the embedding layer.
