@@ -38,6 +38,6 @@ Yes, it is not a secret anymore! The key decision that makes the number of param
 I have taken the basic syntax from various existing projects on the web. 
 
 ## Requirements
-**Keras 2+**
+**Keras 2+**  
 Tested with TensorFlow Backend - might work with Theano but not tested
 
