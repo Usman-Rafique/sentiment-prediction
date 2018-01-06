@@ -21,9 +21,7 @@ This network gives a test accuracy of over 88% (88.376% in my last test). Since 
 Total number of parameters: 322,046
 
 Test Accuracy: 88%
-
 Training Accuracy: 91%
-
 Convolutional Layers: 3
 
 ## Secret Sauce
