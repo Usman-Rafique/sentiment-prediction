@@ -7,10 +7,10 @@ This project uses the IMDB dataset for sentiment analysis. The dataset contains 
 First, we need to convert the words to vectors using an embedding layer. Since every word is originally represented as an integer, we need to convert them to vectors of real numbers so that vectors of similar words are "closer". You can read more about embedding layer in Keras here: https://keras.io/layers/embeddings/.
 
 
-#Accuracy vs Epochs
+# Accuracy vs Epochs
 ![Accuracy Plot](https://github.com/Usman-Rafique/sentiment-prediction/blob/master/CNN_acc.png)
 
-#Loss vs Epochs
+# Loss vs Epochs
 ![Loss Plot](https://github.com/Usman-Rafique/sentiment-prediction/blob/master/CNN_loss.png)
 
 
