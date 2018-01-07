@@ -1,4 +1,4 @@
-# Sentiment Prediction from Movie Reviews on IMDB
+# Sentiment Prediction on Large Movie Review Dataset
 
 The goal of this project is to understand the sentiment from a given text.
 
