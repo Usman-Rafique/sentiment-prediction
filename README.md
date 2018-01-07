@@ -39,5 +39,6 @@ I have taken the basic syntax from various existing projects on the web.
 
 ## Requirements
 **Keras 2+**  
-Tested with TensorFlow Backend - might work with Theano but not tested
+Matplotlib for plotting convergence curves.  
+Tested with **TensorFlow Backend** - might work with Theano but not tested
 
