@@ -34,11 +34,14 @@ Yes, it is not a secret anymore! The key decision that makes the number of param
 ## Loss vs Epochs
 ![Loss Plot](https://github.com/Usman-Rafique/sentiment-prediction/blob/master/CNN_loss.png)
 
+## Requirements
+1. Python 3.5 (not tested with other versions)
+2. **Keras 2+**  
+3. Matplotlib for plotting convergence curves  
+..* Tested with **TensorFlow Backend** - might work with Theano but not tested
+
+## Running the Code
+The standalone code is in the file _sentiment_CNN.py_. If the 
+
 ## Disclaimers and Acknowledgements
 I have taken the basic syntax from various existing projects on the web. 
-
-## Requirements
-**Keras 2+**  
-Matplotlib for plotting convergence curves.  
-Tested with **TensorFlow Backend** - might work with Theano but not tested
-
