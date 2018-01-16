@@ -36,7 +36,7 @@ Yes, it is not a secret anymore! The key decision that makes the number of param
 
 ## Requirements
 1. Python 3.5 (not tested with other versions)
-2. **Keras 2+ ** (Tested with **TensorFlow Backend** - might work with Theano but not tested)  
+2. **Keras 2+** (Tested with **TensorFlow Backend** - might work with Theano but not tested)  
 3. Matplotlib for plotting convergence curves  
 
 
