@@ -41,7 +41,7 @@ Yes, it is not a secret anymore! The key decision that makes the number of param
 
 
 ## Running the Code
-The standalone code is in the file _sentiment_CNN.py_. If the 
+The standalone code is in the file _sentiment_CNN.py_. If the required packages are configured properly, the code should run without any problem.
 
 ## Disclaimers and Acknowledgements
 I have taken the basic syntax from various existing projects on the web. 
