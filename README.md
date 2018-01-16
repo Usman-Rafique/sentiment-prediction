@@ -36,9 +36,10 @@ Yes, it is not a secret anymore! The key decision that makes the number of param
 
 ## Requirements
 1. Python 3.5 (not tested with other versions)
-2. **Keras 2+**  
+2. **Keras 2+* **  
 3. Matplotlib for plotting convergence curves  
-..* Tested with **TensorFlow Backend** - might work with Theano but not tested
+
+* Tested with **TensorFlow Backend** - might work with Theano but not tested
 
 ## Running the Code
 The standalone code is in the file _sentiment_CNN.py_. If the 
